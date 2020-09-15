@@ -8,16 +8,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 2020-09
 - HistoryMap
-- [GitHub] https://github.com/devdevdev09/202009
+- [Link](https://github.com/devdevdev09/202009) : https://github.com/devdevdev09/202009
 
 ### 2020-08
 - slackTohtml
-- [GitHub] https://github.com/devdevdev09/202008
+- [Link](https://github.com/devdevdev09/202008) : https://github.com/devdevdev09/202008
 
 ### 2020-07
 - 일일커밋 카운터
-- [Github] https://github.com/devdevdev09/202007
-- [heroku] https://daily-commit-counter.herokuapp.com/dailycommit/devdevdev09
+- [Link](https://github.com/devdevdev09/202007) : https://github.com/devdevdev09/202007
+- [heroku](https://daily-commit-counter.herokuapp.com/dailycommit/devdevdev09) : https://daily-commit-counter.herokuapp.com/dailycommit/devdevdev09
 
 ### Markdown
 
